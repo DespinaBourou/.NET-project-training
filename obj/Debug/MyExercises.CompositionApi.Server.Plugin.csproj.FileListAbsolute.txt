@@ -1,7 +1,0 @@
-C:\Program Files\One Identity\One Identity Manager\MyExercises.CompositionApi.Server.Plugin.dll
-C:\Program Files\One Identity\One Identity Manager\MyExercises.CompositionApi.Server.Plugin.pdb
-C:\Users\OneIM\Desktop\csharpapis\MyExercises.CompositionApi.Server.Plugin\obj\Debug\MyExercises.CompositionApi.Server.Plugin.csproj.AssemblyReference.cache
-C:\Users\OneIM\Desktop\csharpapis\MyExercises.CompositionApi.Server.Plugin\obj\Debug\MyExercises.CompositionApi.Server.Plugin.csproj.CoreCompileInputs.cache
-C:\Users\OneIM\Desktop\csharpapis\MyExercises.CompositionApi.Server.Plugin\obj\Debug\MyExerci.339C9329.Up2Date
-C:\Users\OneIM\Desktop\csharpapis\MyExercises.CompositionApi.Server.Plugin\obj\Debug\MyExercises.CompositionApi.Server.Plugin.dll
-C:\Users\OneIM\Desktop\csharpapis\MyExercises.CompositionApi.Server.Plugin\obj\Debug\MyExercises.CompositionApi.Server.Plugin.pdb
