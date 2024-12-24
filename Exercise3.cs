@@ -17,7 +17,6 @@ using System.Web;
 using NLog.Targets;
 
 namespace QBM.CompositionApi
-
 { //conflicting branch2 comment
 
 
