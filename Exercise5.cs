@@ -24,6 +24,10 @@ using System.Runtime.ConstrainedExecution;
 
 namespace QBM.CompositionApi
 {
+    //new comment to test branches
+
+
+
     // The PostPredefinedSQLAllColumns class implements the IApiProviderFor interface for the PortalApiProject
     public class PostPredefinedSQLAllColumns : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject>
     {
