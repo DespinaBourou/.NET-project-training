@@ -18,7 +18,7 @@ using NLog.Targets;
 
 namespace QBM.CompositionApi
 
-{ //conflicting branch2 comment and branch1 comment
+{ //conflicting branch2 comment
 
 
     
