@@ -17,7 +17,10 @@ using System.Web;
 using NLog.Targets;
 
 namespace QBM.CompositionApi
-{ //conflicting branch2 comment
+
+{ //conflicting branch2 comment and branch1 comment
+
+
     
     public class Exercise3 : IApiProviderFor<PortalApiProject>
     {
