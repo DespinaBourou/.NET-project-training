@@ -17,7 +17,7 @@ using System.Web;
 using NLog.Targets;
 
 namespace QBM.CompositionApi
-{ //branch1 comment
+{ 
     
     public class Exercise3 : IApiProviderFor<PortalApiProject>
     {
