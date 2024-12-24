@@ -17,7 +17,7 @@ using System.Web;
 using NLog.Targets;
 
 namespace QBM.CompositionApi
-{ //conflicting branch2 comment
+{
 
 
     
@@ -29,6 +29,7 @@ namespace QBM.CompositionApi
                 .Handle<PostedAADGroup>("POST", async (posted, qr, ct) =>
                 {
                     //variables to hold data from the post request
+                    Console.WriteLine("Hi");
                     string displayName = ""; //its necessary for the creation 
                     string mailNickName = ""; //alias //its necessary for the creation
                     string UID_AADOrganization = ""; //tenant //its necessary for the creation
