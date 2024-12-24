@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\OneIM\\Desktop\\csharpapis\\MyExercises.CompositionApi.Server.Plugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\csharpapis\\MyExercises.CompositionApi.Server.Plugin\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\desktop\\csharpapis\\myexercises.compositionapi.server.plugin\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|solutionrelative:exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyExercises.CompositionApi.Server.Plugin||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\desktop\\csharpapis\\myexercises.compositionapi.server.plugin\\exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\csharpapis\\MyExercises.CompositionApi.Server.Plugin\\exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|solutionrelative:exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -24,9 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\csharpapis\\MyExercises.CompositionApi.Server.Plugin\\exercise4get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|solutionrelative:exercise4get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9340311-D2FA-4281-BE33-FBEEB4DA6803}|MyExercises.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\desktop\\csharpapis\\myexercises.compositionapi.server.plugin\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +55,7 @@
               "RelativeDocumentMoniker": "Exercise3.cs",
               "ToolTip": "C:\\Users\\OneIM\\Desktop\\csharpapis\\MyExercises.CompositionApi.Server.Plugin\\Exercise3.cs",
               "RelativeToolTip": "Exercise3.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T11:56:12.288Z",
               "EditorCaption": ""
@@ -84,8 +81,7 @@
               "ToolTip": "C:\\Users\\OneIM\\Desktop\\csharpapis\\MyExercises.CompositionApi.Server.Plugin\\MyExercises.CompositionApi.Server.Plugin.csproj",
               "RelativeToolTip": "MyExercises.CompositionApi.Server.Plugin.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-17T15:11:41.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T15:11:41.646Z"
             },
             {
               "$type": "Document",
@@ -97,8 +93,7 @@
               "RelativeToolTip": "Exercise5.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAuwBoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:33:52.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T14:33:52.898Z"
             },
             {
               "$type": "Document",
