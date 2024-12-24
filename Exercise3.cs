@@ -27,6 +27,7 @@ namespace QBM.CompositionApi
                 .Handle<PostedAADGroup>("POST", async (posted, qr, ct) =>
                 {
                     //variables to hold data from the post request
+                    Console.WriteLine("Hello");
                     string displayName = ""; //its necessary for the creation 
                     string mailNickName = ""; //alias //its necessary for the creation
                     string UID_AADOrganization = ""; //tenant //its necessary for the creation
