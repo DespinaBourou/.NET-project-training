@@ -38,6 +38,7 @@ namespace QBM.CompositionApi
             builder.AddMethod(Method.Define("example/predefinedsql/allcolumns")
                   .Handle<PostedSQL, List<List<ColumnData>>>("POST", async (posted, qr, ct) =>
                   {Console.WriteLine("hi from exbranch1 inside add method");
+
                       // Retrieve the UID of the currently logged-in user from the session
                       var strUID_Person = qr.Session.User().Uid;
 
