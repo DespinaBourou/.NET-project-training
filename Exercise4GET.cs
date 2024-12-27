@@ -22,7 +22,7 @@ namespace QBM.CompositionApi
 {
 
     public class Exercise4GET : IApiProviderFor<PortalApiProject>
-    {
+    {//new comment for git exercise 4
         public void Build(IApiBuilder builder)
         {
             builder.AddMethod(Method.Define("aadgroupfilter")
