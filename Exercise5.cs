@@ -33,11 +33,12 @@ namespace QBM.CompositionApi
     {
         // The Build method is where we define our API methods using the IApiBuilder
         public void Build(IApiBuilder builder)
-        {
+        {Console.WriteLine("hi from exbranch1");
             // Add a POST method named "example/predefinedsql/allcolumns" to the API
             builder.AddMethod(Method.Define("example/predefinedsql/allcolumns")
                   .Handle<PostedSQL, List<List<ColumnData>>>("POST", async (posted, qr, ct) =>
-                  {Console.WriteLine("hi from exbranch2");
+                  {Console.WriteLine("hi from exbranch1 inside add method");
+
                       // Retrieve the UID of the currently logged-in user from the session
                       var strUID_Person = qr.Session.User().Uid;
 
